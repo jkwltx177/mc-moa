@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cafe",
+    "name": "카페",
+    "icon": "☕️",
+    "color": "#D9534F"
+  },
+  {
+    "id": "convenience-store",
+    "name": "편의점",
+    "icon": "🏪",
+    "color": "#5CB85C"
+  },
+  {
+    "id": "movie",
+    "name": "영화",
+    "icon": "🎬",
+    "color": "#428BCA"
+  },
+  {
+    "id": "gift",
+    "name": "선물",
+    "icon": "🎁",
+    "color": "#F0AD4E"
+  },
+  {
+    "id": "food",
+    "name": "음식",
+    "icon": "🍔",
+    "color": "#5BC0DE"
+  }
+]
